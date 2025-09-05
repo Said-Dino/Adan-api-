@@ -7,7 +7,8 @@
     "build": "next build",
     "start": "next start",
     "lint": "eslint",
-    "predeploy": "npm run build",
+    "export": "next build && next export",
+    "predeploy": "npm run export",
     "deploy": "gh-pages -d out"
   },
   "dependencies": {
@@ -30,5 +31,5 @@
   "bugs": {
     "url": "https://github.com/said-dino/Adan-api-/issues"
   },
-  "homepage": "https://github.com/Said-Dino/Adan-api-.git"
+  "homepage": "https://github.com/Said-Dino/Adan-api-"
 }
