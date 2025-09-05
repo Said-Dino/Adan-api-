@@ -63,7 +63,7 @@ h1, h5 {
 }
 
 /* 📱 Responsive pour tablettes (≤768px) */
-@media (max-width: 768px) {
+@media (max-width: 1100px) {
   .pagejs {
     margin: 20px 10px;
     color: white;
