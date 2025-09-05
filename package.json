@@ -19,5 +19,13 @@
     "@eslint/eslintrc": "^3",
     "eslint": "^9",
     "eslint-config-next": "15.5.2"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/said-dino/prayer-time.git"
+  },
+  "bugs": {
+    "url": "https://github.com/said-dino/prayer-time/issues"
+  },
+  "homepage": "https://github.com/said-dino/prayer-time#readme"
 }
